@@ -60,3 +60,12 @@ a {
   margin-right: 10px;
   font-size: 1.2em;
 }
+#intro-video {
+  text-align: center;
+  margin: 40px auto;
+}
+#intro-video video {
+  max-width: 90%;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
